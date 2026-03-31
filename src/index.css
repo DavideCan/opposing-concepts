@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Inter:wght@400;500;700&display=swap');
+
+:root {
+  --font-heading: 'Outfit', sans-serif;
+  --font-body: 'Inter', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: #0f172a;
+  min-height: 100vh;
+  overflow: hidden; /* No scrolling in this mode */
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-heading);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.fullscreen-card-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.card-half {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem;
+  text-align: center;
+}
+
+.card-half h1 {
+  /* Clamp size to remain huge but not break */
+  font-size: clamp(2rem, 6vw, 6rem);
+  color: white;
+  text-shadow: 0 4px 20px rgba(0,0,0,0.3);
+  line-height: 1.1;
+  word-wrap: break-word;
+}
+
+.left-half {
+  /* Sleek Cyan/Blue gradient */
+  background: linear-gradient(135deg, #0284c7, #06b6d4);
+  box-shadow: inset -10px 0 30px rgba(0,0,0,0.1); /* Subtle depth */
+}
+
+.right-half {
+  /* Sleek Pink/Orange gradient */
+  background: linear-gradient(135deg, #be185d, #f43f5e);
+  box-shadow: inset 10px 0 30px rgba(0,0,0,0.1);
+}
+
+.card-center-decorator {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  color: #0f172a;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-heading);
+  font-weight: 800;
+  font-size: 2rem;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+  z-index: 10;
+}
+
+/* Force Landscape layout on mobile portrait screens */
+@media screen and (max-width: 900px) and (orientation: portrait) {
+  body {
+    overflow: hidden;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  #root {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .fullscreen-card-container {
+    /* Swap width and height to match physical screen dimensions */
+    width: 100vh;
+    height: 100vw;
+    /* Rotate exactly 90 degrees */
+    transform: rotate(90deg);
+  }
+  
+  .card-half h1 {
+    font-size: clamp(2.5rem, 8vh, 5rem);
+  }
+}
+
+/* Utilities */
+.absolute { position: absolute; }
+.bottom-4 { bottom: 1rem; }
+.left-0 { left: 0; }
+.right-0 { right: 0; }
+.text-center { text-align: center; }
+.opacity-50 { opacity: 0.5; }
+.pointer-events-none { pointer-events: none; }

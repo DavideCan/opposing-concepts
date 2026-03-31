@@ -1,0 +1,778 @@
+[
+  {
+    "left": "Cold",
+    "right": "Hot"
+  },
+  {
+    "left": "Small",
+    "right": "Big"
+  },
+  {
+    "left": "Good",
+    "right": "Bad"
+  },
+  {
+    "left": "Slow",
+    "right": "Fast"
+  },
+  {
+    "left": "Cheap",
+    "right": "Expensive"
+  },
+  {
+    "left": "Weak",
+    "right": "Strong"
+  },
+  {
+    "left": "Quiet",
+    "right": "Loud"
+  },
+  {
+    "left": "Boring",
+    "right": "Fun"
+  },
+  {
+    "left": "Traditional",
+    "right": "Modern"
+  },
+  {
+    "left": "Simple",
+    "right": "Complex"
+  },
+  {
+    "left": "Sad",
+    "right": "Happy"
+  },
+  {
+    "left": "Light",
+    "right": "Heavy"
+  },
+  {
+    "left": "Short",
+    "right": "Long"
+  },
+  {
+    "left": "Sweet",
+    "right": "Salty"
+  },
+  {
+    "left": "Ugly",
+    "right": "Beautiful"
+  },
+  {
+    "left": "Dark",
+    "right": "Light"
+  },
+  {
+    "left": "Dirty",
+    "right": "Clean"
+  },
+  {
+    "left": "Amateur",
+    "right": "Professional"
+  },
+  {
+    "left": "Useless",
+    "right": "Useful"
+  },
+  {
+    "left": "Fragile",
+    "right": "Sturdy"
+  },
+  {
+    "left": "Sober",
+    "right": "Eccentric"
+  },
+  {
+    "left": "Meat",
+    "right": "Fish"
+  },
+  {
+    "left": "Underrated",
+    "right": "Overrated"
+  },
+  {
+    "left": "Ethical",
+    "right": "Unethical"
+  },
+  {
+    "left": "Science",
+    "right": "Magic"
+  },
+  {
+    "left": "Introverted",
+    "right": "Extroverted"
+  },
+  {
+    "left": "Relaxing",
+    "right": "Stressful"
+  },
+  {
+    "left": "Snack",
+    "right": "Full Meal"
+  },
+  {
+    "left": "Niche",
+    "right": "Mainstream"
+  },
+  {
+    "left": "Immature",
+    "right": "Mature"
+  },
+  {
+    "left": "Stink",
+    "right": "Perfume"
+  },
+  {
+    "left": "Popular",
+    "right": "Unpopular"
+  },
+  {
+    "left": "Natural",
+    "right": "Artificial"
+  },
+  {
+    "left": "Serious",
+    "right": "Ironic"
+  },
+  {
+    "left": "Ephemeral",
+    "right": "Permanent"
+  },
+  {
+    "left": "Local",
+    "right": "Global"
+  },
+  {
+    "left": "Rigid",
+    "right": "Flexible"
+  },
+  {
+    "left": "Shy",
+    "right": "Brave"
+  },
+  {
+    "left": "Risky",
+    "right": "Safe"
+  },
+  {
+    "left": "Chaos",
+    "right": "Order"
+  },
+  {
+    "left": "Art",
+    "right": "Trash"
+  },
+  {
+    "left": "Hero",
+    "right": "Villain"
+  },
+  {
+    "left": "Subjective",
+    "right": "Objective"
+  },
+  {
+    "left": "Freedom",
+    "right": "Control"
+  },
+  {
+    "left": "Past",
+    "right": "Future"
+  },
+  {
+    "left": "Logical",
+    "right": "Emotional"
+  },
+  {
+    "left": "Destiny",
+    "right": "Coincidence"
+  },
+  {
+    "left": "Elitist",
+    "right": "Popular"
+  },
+  {
+    "left": "Private",
+    "right": "Public"
+  },
+  {
+    "left": "Useful",
+    "right": "Aesthetic"
+  },
+  {
+    "left": "Guilt",
+    "right": "Responsibility"
+  },
+  {
+    "left": "Instinct",
+    "right": "Reason"
+  },
+  {
+    "left": "Discreet",
+    "right": "Ostentatious"
+  },
+  {
+    "left": "Nostalgia",
+    "right": "Progress"
+  },
+  {
+    "left": "Superficial",
+    "right": "Deep"
+  },
+  {
+    "left": "Sacred",
+    "right": "Profane"
+  },
+  {
+    "left": "Inevitable",
+    "right": "Avoidable"
+  },
+  {
+    "left": "Utopian",
+    "right": "Dystopian"
+  },
+  {
+    "left": "Chaos",
+    "right": "Harmony"
+  },
+  {
+    "left": "True",
+    "right": "False"
+  },
+  {
+    "left": "Feels like a circle",
+    "right": "Feels like a square"
+  },
+  {
+    "left": "Smells like rain",
+    "right": "Smells like sun"
+  },
+  {
+    "left": "Cat person",
+    "right": "Dog person"
+  },
+  {
+    "left": "Eaten for breakfast",
+    "right": "Eaten for dinner"
+  },
+  {
+    "left": "Feels like a Monday",
+    "right": "Feels like a Friday"
+  },
+  {
+    "left": "It's a compliment",
+    "right": "It's an insult"
+  },
+  {
+    "left": "Done alone",
+    "right": "Done in a group"
+  },
+  {
+    "left": "It's a crime",
+    "right": "It's a sin"
+  },
+  {
+    "left": "Soft to touch",
+    "right": "Rough to touch"
+  },
+  {
+    "left": "Rich people stuff",
+    "right": "Poor people stuff"
+  },
+  {
+    "left": "It's a weapon",
+    "right": "It's a toy"
+  },
+  {
+    "left": "One-way trip",
+    "right": "Return trip"
+  },
+  {
+    "left": "Learned in school",
+    "right": "Learned from life"
+  },
+  {
+    "left": "It's a secret",
+    "right": "It's public knowledge"
+  },
+  {
+    "left": "Power",
+    "right": "Wisdom"
+  },
+  {
+    "left": "Form",
+    "right": "Substance"
+  },
+  {
+    "left": "White noise",
+    "right": "Music"
+  },
+  {
+    "left": "Real",
+    "right": "Virtual"
+  },
+  {
+    "left": "Winter",
+    "right": "Summer"
+  },
+  {
+    "left": "Science",
+    "right": "Faith"
+  },
+  {
+    "left": "Star Wars",
+    "right": "Star Trek"
+  },
+  {
+    "left": "Book",
+    "right": "Movie"
+  },
+  {
+    "left": "Marvel",
+    "right": "DC Comics"
+  },
+  {
+    "left": "Social Media",
+    "right": "Real Life"
+  },
+  {
+    "left": "Analog",
+    "right": "Digital"
+  },
+  {
+    "left": "PC",
+    "right": "Console"
+  },
+  {
+    "left": "Pineapple pizza",
+    "right": "Gourmet"
+  },
+  {
+    "left": "80s",
+    "right": "90s"
+  },
+  {
+    "left": "Work",
+    "right": "Hobby"
+  },
+  {
+    "left": "Rock",
+    "right": "Pop"
+  },
+  {
+    "left": "Classic",
+    "right": "Avant-garde"
+  },
+  {
+    "left": "Genius",
+    "right": "Madness"
+  },
+  {
+    "left": "Comedy",
+    "right": "Tragedy"
+  },
+  {
+    "left": "Theory",
+    "right": "Practice"
+  },
+  {
+    "left": "Plastic",
+    "right": "Metal"
+  },
+  {
+    "left": "Wood",
+    "right": "Stone"
+  },
+  {
+    "left": "Smooth",
+    "right": "Rough"
+  },
+  {
+    "left": "Matte",
+    "right": "Shiny"
+  },
+  {
+    "left": "Heavy",
+    "right": "Light"
+  },
+  {
+    "left": "Pointy",
+    "right": "Rounded"
+  },
+  {
+    "left": "Flexible",
+    "right": "Rigid"
+  },
+  {
+    "left": "Dry",
+    "right": "Wet"
+  },
+  {
+    "left": "Boiling",
+    "right": "Freezing"
+  },
+  {
+    "left": "New",
+    "right": "Antique"
+  },
+  {
+    "left": "Broken",
+    "right": "Intact"
+  },
+  {
+    "left": "Cheap",
+    "right": "Luxury"
+  },
+  {
+    "left": "Disposable",
+    "right": "Eternal"
+  },
+  {
+    "left": "Size of a nail",
+    "right": "Size of a house"
+  },
+  {
+    "left": "Sound of glass",
+    "right": "Sound of velvet"
+  },
+  {
+    "left": "Smell of clean",
+    "right": "Smell of dust"
+  },
+  {
+    "left": "Easy to break",
+    "right": "Indestructible"
+  },
+  {
+    "left": "Fits in a pocket",
+    "right": "Needs a moving van"
+  },
+  {
+    "left": "Kitchen tool",
+    "right": "Garden tool"
+  },
+  {
+    "left": "Technology",
+    "right": "Crafts"
+  },
+  {
+    "left": "Sweet",
+    "right": "Bitter"
+  },
+  {
+    "left": "Spicy",
+    "right": "Bland"
+  },
+  {
+    "left": "Crunchy",
+    "right": "Soggy"
+  },
+  {
+    "left": "Street food",
+    "right": "Michelin star"
+  },
+  {
+    "left": "Healthy",
+    "right": "Junk food"
+  },
+  {
+    "left": "Tastes like strawberry",
+    "right": "Tastes like lemon"
+  },
+  {
+    "left": "Breakfast",
+    "right": "Midnight snack"
+  },
+  {
+    "left": "Eaten with hands",
+    "right": "Eaten with silverware"
+  },
+  {
+    "left": "Heavy to digest",
+    "right": "Very light"
+  },
+  {
+    "left": "Base ingredient",
+    "right": "Final touch"
+  },
+  {
+    "left": "Hot beverage",
+    "right": "Frozen cocktail"
+  },
+  {
+    "left": "Tastes like the sea",
+    "right": "Tastes like the mountains"
+  },
+  {
+    "left": "Cooked",
+    "right": "Raw"
+  },
+  {
+    "left": "Spiced",
+    "right": "Unseasoned"
+  },
+  {
+    "left": "Grandma's tradition",
+    "right": "Molecular cuisine"
+  },
+  {
+    "left": "Too salty",
+    "right": "Unsalted"
+  },
+  {
+    "left": "Fruit",
+    "right": "Vegetable"
+  },
+  {
+    "left": "Diet",
+    "right": "Feast"
+  },
+  {
+    "left": "Vegan",
+    "right": "Barbecue"
+  },
+  {
+    "left": "Tastes chemical",
+    "right": "Tastes natural"
+  },
+  {
+    "left": "Kid's movie",
+    "right": "Horror movie"
+  },
+  {
+    "left": "Protagonist",
+    "right": "Sidekick"
+  },
+  {
+    "left": "Sad song",
+    "right": "Stadium anthem"
+  },
+  {
+    "left": "Boring book",
+    "right": "Binge-worthy TV show"
+  },
+  {
+    "left": "Oscar-winning actor",
+    "right": "Reality star"
+  },
+  {
+    "left": "Fantasy",
+    "right": "Sci-Fi"
+  },
+  {
+    "left": "Arcade game",
+    "right": "Realistic simulator"
+  },
+  {
+    "left": "Pencil drawing",
+    "right": "Marble sculpture"
+  },
+  {
+    "left": "Beloved character",
+    "right": "Villain you hate"
+  },
+  {
+    "left": "Soundtrack",
+    "right": "White noise"
+  },
+  {
+    "left": "Musical",
+    "right": "Documentary"
+  },
+  {
+    "left": "Comic book",
+    "right": "Poetry"
+  },
+  {
+    "left": "TikTok",
+    "right": "Encyclopedia"
+  },
+  {
+    "left": "Immortal classic",
+    "right": "One-hit wonder"
+  },
+  {
+    "left": "Radio",
+    "right": "Podcast"
+  },
+  {
+    "left": "Theater",
+    "right": "Stadium"
+  },
+  {
+    "left": "Celebrity",
+    "right": "Ordinary person"
+  },
+  {
+    "left": "Happy ending",
+    "right": "Tragic ending"
+  },
+  {
+    "left": "Spoiler",
+    "right": "Surprise"
+  },
+  {
+    "left": "Reboot",
+    "right": "Original"
+  },
+  {
+    "left": "Morning",
+    "right": "Night"
+  },
+  {
+    "left": "Monday",
+    "right": "Saturday"
+  },
+  {
+    "left": "Teamwork",
+    "right": "Solitude"
+  },
+  {
+    "left": "Chaos",
+    "right": "Silence"
+  },
+  {
+    "left": "Adventurous holiday",
+    "right": "Total relaxation"
+  },
+  {
+    "left": "Elegant suit",
+    "right": "Pajamas"
+  },
+  {
+    "left": "Late",
+    "right": "Early"
+  },
+  {
+    "left": "Brave",
+    "right": "Cautious"
+  },
+  {
+    "left": "Talking",
+    "right": "Listening"
+  },
+  {
+    "left": "Dream",
+    "right": "Reality"
+  },
+  {
+    "left": "Private",
+    "right": "Public"
+  },
+  {
+    "left": "Perfect gift",
+    "right": "Regifted item"
+  },
+  {
+    "left": "Expensive hobby",
+    "right": "Free pastime"
+  },
+  {
+    "left": "City",
+    "right": "Countryside"
+  },
+  {
+    "left": "Extroverted",
+    "right": "Introverted"
+  },
+  {
+    "left": "Rational",
+    "right": "Impulsive"
+  },
+  {
+    "left": "Optimistic",
+    "right": "Pessimistic"
+  },
+  {
+    "left": "Past",
+    "right": "Future"
+  },
+  {
+    "left": "Truth",
+    "right": "White lie"
+  },
+  {
+    "left": "Boredom",
+    "right": "Adrenaline"
+  },
+  {
+    "left": "Embarrassing",
+    "right": "Epic"
+  },
+  {
+    "left": "Formal",
+    "right": "Informal"
+  },
+  {
+    "left": "A compliment",
+    "right": "A veiled insult"
+  },
+  {
+    "left": "A romantic date",
+    "right": "A business dinner"
+  },
+  {
+    "left": "A secret",
+    "right": "Breaking news"
+  },
+  {
+    "left": "A stupid mistake",
+    "right": "A genius plan"
+  },
+  {
+    "left": "Young people stuff",
+    "right": "Old people stuff"
+  },
+  {
+    "left": "Elegant",
+    "right": "Vulgar"
+  },
+  {
+    "left": "Polite",
+    "right": "Rude"
+  },
+  {
+    "left": "Popular",
+    "right": "Niche"
+  },
+  {
+    "left": "Politically correct",
+    "right": "Incorrect"
+  },
+  {
+    "left": "A luxury",
+    "right": "A necessity"
+  },
+  {
+    "left": "Makes you laugh",
+    "right": "Makes you cry"
+  },
+  {
+    "left": "A cliché",
+    "right": "Something never seen before"
+  },
+  {
+    "left": "Snob",
+    "right": "Down-to-earth"
+  },
+  {
+    "left": "A promise",
+    "right": "A threat"
+  },
+  {
+    "left": "A stroke of luck",
+    "right": "Pure merit"
+  },
+  {
+    "left": "Advice",
+    "right": "Criticism"
+  },
+  {
+    "left": "Friendship",
+    "right": "Love"
+  },
+  {
+    "left": "End",
+    "right": "Beginning"
+  }
+]

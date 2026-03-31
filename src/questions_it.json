@@ -1,0 +1,778 @@
+[
+  {
+    "left": "Freddo",
+    "right": "Caldo"
+  },
+  {
+    "left": "Piccolo",
+    "right": "Grande"
+  },
+  {
+    "left": "Buono",
+    "right": "Cattivo"
+  },
+  {
+    "left": "Lento",
+    "right": "Veloce"
+  },
+  {
+    "left": "Economico",
+    "right": "Costoso"
+  },
+  {
+    "left": "Debole",
+    "right": "Forte"
+  },
+  {
+    "left": "Silenzioso",
+    "right": "Rumoroso"
+  },
+  {
+    "left": "Noioso",
+    "right": "Divertente"
+  },
+  {
+    "left": "Tradizionale",
+    "right": "Moderno"
+  },
+  {
+    "left": "Semplice",
+    "right": "Complesso"
+  },
+  {
+    "left": "Triste",
+    "right": "Felice"
+  },
+  {
+    "left": "Leggero",
+    "right": "Pesante"
+  },
+  {
+    "left": "Corto",
+    "right": "Lungo"
+  },
+  {
+    "left": "Dolce",
+    "right": "Salato"
+  },
+  {
+    "left": "Brutto",
+    "right": "Bello"
+  },
+  {
+    "left": "Buio",
+    "right": "Luce"
+  },
+  {
+    "left": "Sporco",
+    "right": "Pulito"
+  },
+  {
+    "left": "Amatoriale",
+    "right": "Professionale"
+  },
+  {
+    "left": "Inutile",
+    "right": "Utile"
+  },
+  {
+    "left": "Fragile",
+    "right": "Resistente"
+  },
+  {
+    "left": "Sobrio",
+    "right": "Eccentrico"
+  },
+  {
+    "left": "Carne",
+    "right": "Pesce"
+  },
+  {
+    "left": "Sottovalutato",
+    "right": "Sopravvalutato"
+  },
+  {
+    "left": "Etico",
+    "right": "Non etico"
+  },
+  {
+    "left": "Scienza",
+    "right": "Magia"
+  },
+  {
+    "left": "Introverso",
+    "right": "Estroverso"
+  },
+  {
+    "left": "Rilassante",
+    "right": "Stressante"
+  },
+  {
+    "left": "Snack",
+    "right": "Pasto completo"
+  },
+  {
+    "left": "Di nicchia",
+    "right": "Mainstream"
+  },
+  {
+    "left": "Immaturo",
+    "right": "Maturo"
+  },
+  {
+    "left": "Puzza",
+    "right": "Profumo"
+  },
+  {
+    "left": "Popolare",
+    "right": "Impopolare"
+  },
+  {
+    "left": "Naturale",
+    "right": "Artificiale"
+  },
+  {
+    "left": "Serio",
+    "right": "Ironico"
+  },
+  {
+    "left": "Effimero",
+    "right": "Permanente"
+  },
+  {
+    "left": "Locale",
+    "right": "Globale"
+  },
+  {
+    "left": "Rigido",
+    "right": "Flessibile"
+  },
+  {
+    "left": "Timido",
+    "right": "Coraggioso"
+  },
+  {
+    "left": "Rischioso",
+    "right": "Sicuro"
+  },
+  {
+    "left": "Disordine",
+    "right": "Ordine"
+  },
+  {
+    "left": "Arte",
+    "right": "Spazzatura"
+  },
+  {
+    "left": "Eroe",
+    "right": "Villano"
+  },
+  {
+    "left": "Soggettivo",
+    "right": "Oggettivo"
+  },
+  {
+    "left": "Libertà",
+    "right": "Controllo"
+  },
+  {
+    "left": "Passato",
+    "right": "Futuro"
+  },
+  {
+    "left": "Logico",
+    "right": "Emotivo"
+  },
+  {
+    "left": "Destino",
+    "right": "Coincidenza"
+  },
+  {
+    "left": "Elitario",
+    "right": "Popolare"
+  },
+  {
+    "left": "Privato",
+    "right": "Pubblico"
+  },
+  {
+    "left": "Utile",
+    "right": "Estetico"
+  },
+  {
+    "left": "Colpa",
+    "right": "Responsabilità"
+  },
+  {
+    "left": "Istinto",
+    "right": "Ragione"
+  },
+  {
+    "left": "Discreto",
+    "right": "Ostentato"
+  },
+  {
+    "left": "Nostalgia",
+    "right": "Progresso"
+  },
+  {
+    "left": "Superficiale",
+    "right": "Profondo"
+  },
+  {
+    "left": "Sacro",
+    "right": "Profano"
+  },
+  {
+    "left": "Inevitabile",
+    "right": "Evitabile"
+  },
+  {
+    "left": "Utopico",
+    "right": "Distopico"
+  },
+  {
+    "left": "Caos",
+    "right": "Armonia"
+  },
+  {
+    "left": "Vero",
+    "right": "Falso"
+  },
+  {
+    "left": "Sembra un cerchio",
+    "right": "Sembra un quadrato"
+  },
+  {
+    "left": "Odora di pioggia",
+    "right": "Odora di sole"
+  },
+  {
+    "left": "Persona da gatti",
+    "right": "Persona da cani"
+  },
+  {
+    "left": "Si mangia a colazione",
+    "right": "Si mangia a cena"
+  },
+  {
+    "left": "Sembra un lunedì",
+    "right": "Sembra un venerdì"
+  },
+  {
+    "left": "È un complimento",
+    "right": "È un insulto"
+  },
+  {
+    "left": "Si fa da soli",
+    "right": "Si fa in gruppo"
+  },
+  {
+    "left": "È un crimine",
+    "right": "È un peccato"
+  },
+  {
+    "left": "Morbido al tatto",
+    "right": "Ruvido al tatto"
+  },
+  {
+    "left": "Roba da ricchi",
+    "right": "Roba da poveri"
+  },
+  {
+    "left": "È un'arma",
+    "right": "È un giocattolo"
+  },
+  {
+    "left": "Viaggio di sola andata",
+    "right": "Viaggio di ritorno"
+  },
+  {
+    "left": "Si impara a scuola",
+    "right": "Si impara dalla vita"
+  },
+  {
+    "left": "È un segreto",
+    "right": "È di dominio pubblico"
+  },
+  {
+    "left": "Potere",
+    "right": "Saggezza"
+  },
+  {
+    "left": "Forma",
+    "right": "Sostanza"
+  },
+  {
+    "left": "Rumore bianco",
+    "right": "Musica"
+  },
+  {
+    "left": "Reale",
+    "right": "Virtuale"
+  },
+  {
+    "left": "Inverno",
+    "right": "Estate"
+  },
+  {
+    "left": "Scienza",
+    "right": "Fede"
+  },
+  {
+    "left": "Star Wars",
+    "right": "Star Trek"
+  },
+  {
+    "left": "Libro",
+    "right": "Film"
+  },
+  {
+    "left": "Marvel",
+    "right": "DC Comics"
+  },
+  {
+    "left": "Social Media",
+    "right": "Vita Reale"
+  },
+  {
+    "left": "Analogico",
+    "right": "Digitale"
+  },
+  {
+    "left": "PC",
+    "right": "Console"
+  },
+  {
+    "left": "Pizza con ananas",
+    "right": "Gourmet"
+  },
+  {
+    "left": "Anni '80",
+    "right": "Anni '90"
+  },
+  {
+    "left": "Lavoro",
+    "right": "Hobby"
+  },
+  {
+    "left": "Rock",
+    "right": "Pop"
+  },
+  {
+    "left": "Classico",
+    "right": "Avanguardia"
+  },
+  {
+    "left": "Genio",
+    "right": "Follia"
+  },
+  {
+    "left": "Commedia",
+    "right": "Tragedia"
+  },
+  {
+    "left": "Teoria",
+    "right": "Pratica"
+  },
+  {
+    "left": "Plastica",
+    "right": "Metallo"
+  },
+  {
+    "left": "Legno",
+    "right": "Pietra"
+  },
+  {
+    "left": "Liscio",
+    "right": "Ruvido"
+  },
+  {
+    "left": "Opaco",
+    "right": "Lucido"
+  },
+  {
+    "left": "Pesante",
+    "right": "Leggero"
+  },
+  {
+    "left": "Appuntito",
+    "right": "Arrotondato"
+  },
+  {
+    "left": "Flessibile",
+    "right": "Rigido"
+  },
+  {
+    "left": "Asciutto",
+    "right": "Bagnato"
+  },
+  {
+    "left": "Bollente",
+    "right": "Ghiacciato"
+  },
+  {
+    "left": "Nuovo",
+    "right": "Antico"
+  },
+  {
+    "left": "Rotto",
+    "right": "Intatto"
+  },
+  {
+    "left": "Economico",
+    "right": "Di lusso"
+  },
+  {
+    "left": "Monouso",
+    "right": "Eterno"
+  },
+  {
+    "left": "Grande come un'unghia",
+    "right": "Grande come una casa"
+  },
+  {
+    "left": "Rumore di vetro",
+    "right": "Rumore di velluto"
+  },
+  {
+    "left": "Odore di pulito",
+    "right": "Odore di polvere"
+  },
+  {
+    "left": "Facile da rompere",
+    "right": "Indistruttibile"
+  },
+  {
+    "left": "Sta in una tasca",
+    "right": "Serve un trasloco"
+  },
+  {
+    "left": "Utensile da cucina",
+    "right": "Attrezzo da giardino"
+  },
+  {
+    "left": "Tecnologia",
+    "right": "Artigianato"
+  },
+  {
+    "left": "Dolce",
+    "right": "Amaro"
+  },
+  {
+    "left": "Piccante",
+    "right": "Insapore"
+  },
+  {
+    "left": "Croccante",
+    "right": "Molliccio"
+  },
+  {
+    "left": "Cibo di strada",
+    "right": "Ristorante stellato"
+  },
+  {
+    "left": "Salutare",
+    "right": "Junk food"
+  },
+  {
+    "left": "Sa di fragola",
+    "right": "Sa di limone"
+  },
+  {
+    "left": "Colazione",
+    "right": "Spuntino di mezzanotte"
+  },
+  {
+    "left": "Si mangia con le mani",
+    "right": "Si mangia con le posate d'argento"
+  },
+  {
+    "left": "Pesante da digerire",
+    "right": "Leggerissimo"
+  },
+  {
+    "left": "Ingrediente base",
+    "right": "Tocco finale"
+  },
+  {
+    "left": "Bevanda calda",
+    "right": "Cocktail ghiacciato"
+  },
+  {
+    "left": "Sa di mare",
+    "right": "Sa di montagna"
+  },
+  {
+    "left": "Cotto",
+    "right": "Crudo"
+  },
+  {
+    "left": "Speziato",
+    "right": "Scondito"
+  },
+  {
+    "left": "Tradizione nonna",
+    "right": "Cucina molecolare"
+  },
+  {
+    "left": "Troppo salato",
+    "right": "Sciapo"
+  },
+  {
+    "left": "Frutta",
+    "right": "Verdura"
+  },
+  {
+    "left": "Dieta",
+    "right": "Abbuffata"
+  },
+  {
+    "left": "Vegano",
+    "right": "Barbecue"
+  },
+  {
+    "left": "Sa di chimico",
+    "right": "Sa di natura"
+  },
+  {
+    "left": "Film per bambini",
+    "right": "Film dell'orrore"
+  },
+  {
+    "left": "Protagonista",
+    "right": "Comprimario"
+  },
+  {
+    "left": "Canzone triste",
+    "right": "Inno da stadio"
+  },
+  {
+    "left": "Libro noioso",
+    "right": "Serie TV da binge-watching"
+  },
+  {
+    "left": "Attore da Oscar",
+    "right": "Star dei Reality"
+  },
+  {
+    "left": "Fantasy",
+    "right": "Fantascienza"
+  },
+  {
+    "left": "Videogioco arcade",
+    "right": "Simulatore realistico"
+  },
+  {
+    "left": "Disegno a matita",
+    "right": "Scultura in marmo"
+  },
+  {
+    "left": "Personaggio amato",
+    "right": "Cattivo che odi"
+  },
+  {
+    "left": "Colonna sonora",
+    "right": "Rumore bianco"
+  },
+  {
+    "left": "Musical",
+    "right": "Documentario"
+  },
+  {
+    "left": "Fumetto",
+    "right": "Poesia"
+  },
+  {
+    "left": "TikTok",
+    "right": "Enciclopedia"
+  },
+  {
+    "left": "Classico immortale",
+    "right": "Meteora estiva"
+  },
+  {
+    "left": "Radio",
+    "right": "Podcast"
+  },
+  {
+    "left": "Teatro",
+    "right": "Stadio"
+  },
+  {
+    "left": "Celebrità",
+    "right": "Persona qualunque"
+  },
+  {
+    "left": "Finale lieto",
+    "right": "Finale tragico"
+  },
+  {
+    "left": "Spoiler",
+    "right": "Sorpresa"
+  },
+  {
+    "left": "Reboot",
+    "right": "Originale"
+  },
+  {
+    "left": "Mattina",
+    "right": "Notte"
+  },
+  {
+    "left": "Lunedì",
+    "right": "Sabato"
+  },
+  {
+    "left": "Lavoro di squadra",
+    "right": "Solitudine"
+  },
+  {
+    "left": "Caos",
+    "right": "Silenzio"
+  },
+  {
+    "left": "Vacanza avventurosa",
+    "right": "Relax totale"
+  },
+  {
+    "left": "Abito elegante",
+    "right": "Pigiama"
+  },
+  {
+    "left": "In ritardo",
+    "right": "In anticipo"
+  },
+  {
+    "left": "Coraggioso",
+    "right": "Prudente"
+  },
+  {
+    "left": "Parlare",
+    "right": "Ascoltare"
+  },
+  {
+    "left": "Sogno",
+    "right": "Realtà"
+  },
+  {
+    "left": "Privato",
+    "right": "Pubblico"
+  },
+  {
+    "left": "Regalo perfetto",
+    "right": "Regalo riciclato"
+  },
+  {
+    "left": "Hobby costoso",
+    "right": "Passatempo gratis"
+  },
+  {
+    "left": "Città",
+    "right": "Campagna"
+  },
+  {
+    "left": "Estroverso",
+    "right": "Introverso"
+  },
+  {
+    "left": "Razionale",
+    "right": "Impulsivo"
+  },
+  {
+    "left": "Ottimista",
+    "right": "Pessimista"
+  },
+  {
+    "left": "Passato",
+    "right": "Futuro"
+  },
+  {
+    "left": "Verità",
+    "right": "Bugia bianca"
+  },
+  {
+    "left": "Noia",
+    "right": "Adrenalina"
+  },
+  {
+    "left": "Imbarazzante",
+    "right": "Epico"
+  },
+  {
+    "left": "Formale",
+    "right": "Informale"
+  },
+  {
+    "left": "Un complimento",
+    "right": "Un insulto velato"
+  },
+  {
+    "left": "Un appuntamento galante",
+    "right": "Una cena di lavoro"
+  },
+  {
+    "left": "Un segreto",
+    "right": "Una notizia dell'ANSA"
+  },
+  {
+    "left": "Un errore stupido",
+    "right": "Un piano geniale"
+  },
+  {
+    "left": "Roba da giovani",
+    "right": "Roba da vecchi"
+  },
+  {
+    "left": "Elegante",
+    "right": "Volgare"
+  },
+  {
+    "left": "Educato",
+    "right": "Maleducato"
+  },
+  {
+    "left": "Popolare",
+    "right": "Di nicchia"
+  },
+  {
+    "left": "Politicamente corretto",
+    "right": "Scorretto"
+  },
+  {
+    "left": "Un lusso",
+    "right": "Una necessità"
+  },
+  {
+    "left": "Fa ridere",
+    "right": "Fa piangere"
+  },
+  {
+    "left": "Un cliché",
+    "right": "Qualcosa di mai visto"
+  },
+  {
+    "left": "Snob",
+    "right": "Alla mano"
+  },
+  {
+    "left": "Una promessa",
+    "right": "Una minaccia"
+  },
+  {
+    "left": "Un colpo di fortuna",
+    "right": "Merito puro"
+  },
+  {
+    "left": "Un consiglio",
+    "right": "Una critica"
+  },
+  {
+    "left": "Amicizia",
+    "right": "Amore"
+  },
+  {
+    "left": "Fine",
+    "right": "Inizio"
+  }
+]
